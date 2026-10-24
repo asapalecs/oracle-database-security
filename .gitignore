@@ -1,0 +1,13 @@
+# Editoare si sistem de operare
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Fisiere generate de clientul Oracle
+*.lst
+*.log
+*.trc
+
+# Documentatie locala
+docs/
